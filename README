@@ -1,0 +1,4 @@
+A simple distributed sensor board to measure temperature using a TMP36 with connectors to allow additional sensors to be fitted. All
+the sensing is done using the XBEE onboard ADC.
+With the correct XBEE settings it will run for about 10months off 2 AA alkaline batteries sampling one or tow sensors and battery
+voltage once every couple of minutes.
